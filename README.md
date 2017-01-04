@@ -15,10 +15,17 @@
 
 > サーバごとの役割別に記載しようと思います。
 
-* Wordpress
-  * Nginx, MariaDB, PHP
+### サービス
+* Wordpress (Nginx, MariaDB, PHP)
 * Jenkins
 * Selenium Server
 * Gitlab
-* Nodejs
 
+### 言語
+* Nodejs
+* Ruby
+* PHP
+ * CakePHP
+ 
+### ツール
+* Electron
